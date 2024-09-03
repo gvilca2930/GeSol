@@ -2,4 +2,4 @@ from app import app
 
 @app.route('/')
 def home():
-  return '¡Hola, Flask!'
+  return '¡Hola, Flask - GESOL!'
